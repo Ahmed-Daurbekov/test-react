@@ -13,15 +13,16 @@
   }
 }
 
-.App-header {
+.App-header, .App-section, .App-footer {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 33vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  border-bottom: 3px solid #000;
 }
 
 .App-link {
