@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ahmed-Daurbekov.github.io/test-react/static/css/main.286b2909.css",
+    "main.js": "/Ahmed-Daurbekov.github.io/test-react/static/js/main.f75a2507.js",
+    "static/js/787.14730c49.chunk.js": "/Ahmed-Daurbekov.github.io/test-react/static/js/787.14730c49.chunk.js",
+    "index.html": "/Ahmed-Daurbekov.github.io/test-react/index.html",
+    "main.286b2909.css.map": "/Ahmed-Daurbekov.github.io/test-react/static/css/main.286b2909.css.map",
+    "main.f75a2507.js.map": "/Ahmed-Daurbekov.github.io/test-react/static/js/main.f75a2507.js.map",
+    "787.14730c49.chunk.js.map": "/Ahmed-Daurbekov.github.io/test-react/static/js/787.14730c49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286b2909.css",
+    "static/js/main.f75a2507.js"
+  ]
+}
