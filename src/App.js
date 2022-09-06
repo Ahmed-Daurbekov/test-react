@@ -11,6 +11,7 @@ function App() {
             </section>
             <footer className='App-footer'>
                 footer
+                foobar
             </footer>
         </div>
     );
