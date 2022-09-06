@@ -1,3 +1,4 @@
+import Text from './Text';
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
             </header>
             <section className='App-section'>
                 section
+                <Text />
             </section>
             <footer className='App-footer'>
                 footer
